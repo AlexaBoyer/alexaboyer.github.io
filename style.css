@@ -1,6 +1,9 @@
 body {
     margin: 0;
   }
+  p {
+    text-align: center;
+  }
   #container {
     background: lightblue;
     display: flex;
@@ -12,7 +15,8 @@ body {
     flex: 1 0 0;
   }
   header {
-    background-color: lightpink;
+    background-color: violet;
+    text-align: center;
   }
   footer {
     background-color: purple;
@@ -27,7 +31,7 @@ body {
     flex: 0 0 0%;
   }
   #main-div {
-    background-color: pink;
+    background-color: rgb(245, 164, 223);
     flex: 1 0 0;
     text-align: center;
   }
