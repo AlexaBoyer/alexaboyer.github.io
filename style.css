@@ -15,17 +15,21 @@ body {
   #center-container {
     display: flex;
     flex: 1 0 0;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
   header {
     background-color: violet;
     text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
   footer {
     background-color: purple;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
   #left-sidebar {
     background-color: magenta;
     flex: 0 0 20%;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
   
   #right-sidebar {
@@ -36,6 +40,7 @@ body {
     background-color: rgb(245, 164, 223);
     flex: 1 0 0;
     text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
   .padding-20 {
     padding: 20px;
