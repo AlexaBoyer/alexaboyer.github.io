@@ -21,6 +21,7 @@ body {
     background-color: magenta;
     flex: 0 0 20%;
   }
+  
   #right-sidebar {
     background-color: lightgreen;
     flex: 0 0 0%;
