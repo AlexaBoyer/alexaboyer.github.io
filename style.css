@@ -23,16 +23,11 @@ body {
   }
   @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    #center-container {
+    [class*="padding-"]{
       width: 100%;
     }
 }
-    @media only screen and (max-width: 768px) {
-        /* For mobile phones: */
-        #left-sidebar{
-          width: 100%;
-        }
-  }
+    
   #container {
     background: lightblue;
     display: flex;
