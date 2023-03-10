@@ -16,11 +16,11 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 1.8em;
   } 
-  /*img{
+  img{
     padding-top: 20px;
     padding-right: 45px;
     padding-left: 45px;
-  }*/
+  }
   @media only screen and (max-width: 600px) {
     /* For mobile phones: */
     [class*="padding-20"]{
